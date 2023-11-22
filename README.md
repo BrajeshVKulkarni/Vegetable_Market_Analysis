@@ -1,5 +1,3 @@
-![image](https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/c7cb08ae-5778-477c-908b-4f44bbc2a7e9)
-
 # Noida Vegetable Market Analysis 🌽📊
 
 Welcome to our Noida Vegetable Market Analysis project! We've embarked on a comprehensive exploration of the Noida vegetable market, delving into various facets such as pricing dynamics, seasonal trends, income group impacts, and technological integration. All of this is made possible through the power of Python and the Selenium library.
