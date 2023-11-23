@@ -6,11 +6,11 @@ Step into the vibrant world of Noida's Vegetable Market Analysis Project! With a
 # Contents
     
    - [Introduction](#introduction)
-   - [Objectives 🎯](#objectives-)
+   - [Core Objectives 🎯](#objectives-)
    - [Analysis 📊](#analysis-)
      - [Price Trends 🚀](#price-trends-)
      - [Income Group Analysis 💼](#income-group-analysis-)
-     - [Dashboard 📊](#dashboard-)
+     - [Interactive Dashboard 📊](#dashboard-)
      - [Quick Commerce Analysis 🚀](#quick-commerce-analysis-)
   - [Challenges Faced During the Project 🚧](#challenges-faced-during-the-project-)
   - [Conclusion ](#conclusion)
