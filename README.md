@@ -4,9 +4,6 @@ Step into the vibrant world of Noida's Vegetable Market Analysis Project! With a
 
 ---
 # Table of Contents
-<div align="right">
-  <ul align="left">
-    <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/9973e943-7385-4267-800d-3ad2fec57486" width="250" height="200" align="right">
     
    - [Introduction](#introduction)
    - [Objectives 🎯](#objectives-)
@@ -31,11 +28,6 @@ Step into the vibrant world of Noida's Vegetable Market Analysis Project! With a
 - **Quick Commerce:** While navigating this diverse landscape, we also shed light on the continuously expanding quick commerce vegetable business in Delhi.
 ---
 # Objectives 🎯
-<div align="center">
-  <ul align="left">
-    <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/c705cfc8-7e65-405b-bd84-a2ebd9f81b1c" width="160" height="160" align="left">
-  </ul>
-</div>
 
 1. **Data Gathering**: Commenced by meticulously gathering comprehensive and trustworthy data from relevant websites to establish a sturdy foundation for the analysis.
 
