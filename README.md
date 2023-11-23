@@ -111,19 +111,13 @@ Our analysis unfurls like the petals of a blooming flower, each aspect meticulou
 ---
 
 # Challenges Faced During the Project 🚧
-<div align="center">
-  <ul align="left">
-    <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/346a8a0d-47b1-49e6-a273-b829fe94d063" width="150" height="150" align="left">
-  </ul>
+
 
 1. **Dynamic Web Pages**: The websites  scraped was dynamic, with elements loading asynchronously. Adapting to these changes required continuous adjustments to  scraping code.
-<br>
 
-2. **Data Validation**: Ensuring the accuracy and integrity of scraped data was challenging. Robust validation mechanisms were implemented to filter out irrelevant or incorrect information.
-<br>
-<br>
-<br>
-</div>
+
+2. **Data Validation**  : Ensuring the accuracy and integrity of scraped data was challenging. Robust validation mechanisms were implemented to filter out irrelevant or incorrect information.
+
 
 ---
 
