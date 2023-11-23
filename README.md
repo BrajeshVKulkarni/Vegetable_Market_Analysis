@@ -50,16 +50,15 @@ These four objectives formed the core of  comprehensive analysis, offering a hol
 Our analysis unfurls like the petals of a blooming flower, each aspect meticulously examined:
 
 <li><strong>Average Monthly Prices:</strong> : A meticulous analysis was conducted on the monthly average prices for each vegetable, providing crucial insights into the market's dynamics.</li>
-<br>
+
 <li><strong>Stability in Some Vegetables:</strong>  In this turbulent market, certain vegetables stood as steadfast pillars, offering consumers consistent availability and affordability.</li>
-<br>
+
 <li><strong>Price Fluctuations:</strong>Pronounced price fluctuations orchestrated a symphony throughout the year, their rhythms dictated primarily by seasonal factors.</li>
-<br>
+
 <li><strong>Cost-Effective Noida:</strong>  Noida consistently unfurled as a banner of affordability, offering lower prices for most vegetables throughout the year.</li>
-<br>
- <div align="center">
-<img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/31658ec5-0bc8-4566-bf97-fd294a44e4b1" width="350" height="300" align="right">
-</div>
+
+<img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/31658ec5-0bc8-4566-bf97-fd294a44e4b1" width="350" height="300">
+
 
 ### Income Group Analysis 💼
 
