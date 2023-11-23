@@ -3,7 +3,7 @@
 Step into the vibrant world of Noida's Vegetable Market Analysis Project! With an ardent pursuit of understanding pricing dynamics, seasonal variations, and the socio-economic impact on different income groups, our project dives deep into the bustling marketplace. Powered by Python and the Selenium library, we're unraveling insights that illuminate the market's intricacies and envisioning technological integration for efficient analysis and future strategies.
 
 ---
-# Table of Contents
+# Contents
     
    - [Introduction](#introduction)
    - [Objectives 🎯](#objectives-)
