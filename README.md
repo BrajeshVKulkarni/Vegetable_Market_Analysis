@@ -14,8 +14,7 @@ Step into the vibrant world of Noida's Vegetable Market Analysis Project! With a
      - [Quick Commerce Analysis 🚀](#quick-commerce-analysis-)
   - [Challenges Faced During the Project 🚧](#challenges-faced-during-the-project-)
   - [Conclusion ](#conclusion)
-   </ul>
-</div>
+
 
 ---
 
