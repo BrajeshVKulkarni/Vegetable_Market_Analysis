@@ -26,6 +26,7 @@ Step into the vibrant world of Noida's Vegetable Market Analysis Project! With a
 
 - **Quick Commerce:**  As we traversed through this varied terrain, we also illuminated the burgeoning quick commerce vegetable industry in Delhi, constantly evolving and expanding.
 ---
+
 # Objectives 🎯
 
 1. **Data Gathering**: Commenced by meticulously gathering comprehensive and trustworthy data from relevant websites to establish a sturdy foundation for the analysis.
@@ -62,7 +63,6 @@ Our analysis unfurls like the petals of a blooming flower, each aspect meticulou
  
 </div>
 
-
 ### Income Group Analysis 💼
 
 <div style="display: flex; align-items: right;">
@@ -77,13 +77,6 @@ Our analysis unfurls like the petals of a blooming flower, each aspect meticulou
 </div>
 <br>
 <br>
-
----
-
-# Dashboard 📊
-<p align="center">
-  <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/8deeef84-b030-4f81-ab38-b0fd09191a5d" width="750" height="650">
-</p>
 
 ---
 
@@ -107,6 +100,12 @@ Our analysis unfurls like the petals of a blooming flower, each aspect meticulou
   </ul>
 </div>
 
+---
+
+# Dashboard 📊
+<p align="center">
+  <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/8deeef84-b030-4f81-ab38-b0fd09191a5d" width="750" height="650">
+</p>
 
 ---
 
